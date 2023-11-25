@@ -9,3 +9,4 @@
 ## Installation Guide for RLAA
 
 While the installation process may pose a challenge, a comprehensive tutorial awaits you below. Follow this informative tutorial that provides a step-by-step walkthrough for installing *RLAA*.
+[tutorial](https://github.com/Plinkon/rocket-leauge-aim-assist/wiki/INSTALLATION)
