@@ -8,6 +8,4 @@
 
 ## Installation Guide for RLAA
 
-While the installation process may pose a challenge, a comprehensive tutorial awaits you on YouTube. Follow this informative [YouTube tutorial](https://youtube.com) that provides a step-by-step walkthrough for installing *RLAA*.
-
-[Insert relevant images demonstrating *RLAA* in action]
+While the installation process may pose a challenge, a comprehensive tutorial awaits you below. Follow this informative tutorial that provides a step-by-step walkthrough for installing *RLAA*.
