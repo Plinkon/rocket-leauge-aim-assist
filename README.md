@@ -1,8 +1,13 @@
 # Rocket League Aim Assist (RLAA)
-Rocket League Aim Assist (RLAA for short) is a program developed by Plinkon that allows you to have aim assist in Rocket League
-# What is RLAA?
-RLAA is a program that helps you have better aim in Rocket League. It is a complicated program that tricks Rocket League into allowing you to have aim assist
-# How do I install RLAA?
-Installing RLAA is not the easiest, there is a youtube tutorial: [youtube tutorial](youtube.com) that showcases everything on how to install RLAA
-# 
-*put images here*
+
+*Rocket League Aim Assist (RLAA)* is an advanced application created by Plinkon to elevate your aiming capabilities within the game.
+
+## What Sets RLAA Apart?
+
+*RLAA* is a sophisticated tool meticulously designed to enhance your aiming skills in Rocket League. Its intricate programming ingeniously manipulates the game, granting you the benefits of a highly effective aim assist.
+
+## Installation Guide for RLAA
+
+While the installation process may pose a challenge, a comprehensive tutorial awaits you on YouTube. Follow this informative [YouTube tutorial](https://youtube.com) that provides a step-by-step walkthrough for installing *RLAA*.
+
+[Insert relevant images demonstrating *RLAA* in action]
